@@ -1,2 +1,3 @@
 # Keep-My-Notes
-iOS app to create Notes and store it in coreData with specific Tags &amp; Categories 
+
+![](https://github.com/Debashish3100/Keep-My-Notes/blob/master/screenshots/Notes.png) ![](https://github.com/Debashish3100/Keep-My-Notes/blob/master/screenshots/Notes.png)
